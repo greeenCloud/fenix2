@@ -1,0 +1,40 @@
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 8px;
+    font-size: 19px;
+    width: 20%;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+  .tabcontent {
+    color: black;
+    background-color: #ddd;
+    display: none;
+    padding: 50px;
+    height: 100%;
+    margin-bottom: 0;
+  }
+  
+  #page1 {
+    background-color: white;
+  }
+  #page2 {
+    background-color: white;
+  }
+  #page3 {
+    background-color: white;
+  }
+  #page4 {
+    background-color:white;
+  }
+  #page5 {
+    background-color:white;
+  }
